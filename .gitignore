@@ -1,0 +1,7 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+.DS_Store
+build/Release
+node_modules/
